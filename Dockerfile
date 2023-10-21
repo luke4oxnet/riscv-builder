@@ -9,15 +9,4 @@ RUN wget https://github.com/xpack-dev-tools/riscv-none-elf-gcc-xpack/releases/do
 ENV RTT_EXEC_PATH=/xpack-riscv-none-elf-gcc-13.2.0-2/bin/
 ENV RTT_PREFIX=riscv-none-elf-
 ENV RTT_CFLAGS=" -DUSE_RISCV_GCC_GENUINE"
-
-
-
-
-	
-
- 
-
-
-
-    
      
